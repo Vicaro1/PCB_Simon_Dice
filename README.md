@@ -1,2 +1,2 @@
 # PCB_Simon_Dice
-Este proyecto consiste en adaptar el proyecto Simon_Dice a una PCB
+Este proyecto abarca la concepción, diseño y acabado de una placa de circuito impreso (PCB) que contendrá el circuito del popular juego infantil Simón. Primero se estudiará la normativa pertinente al diseño general de PCBs, posteriormente el circuito en sí y las partes que los componen, a continuación se seleccionaran los componentes que se van a emplear. Se discutirán los diferentes parámetros restrictivos que debe tener la placa para finalmente ver la posición de los componentes y su enrutado. Por último se añadirán los tablas y figuras referentes a cada etapa de la fabricación.
